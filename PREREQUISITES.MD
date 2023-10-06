@@ -108,5 +108,4 @@ ORDER BY Age DESC;
 ```
 
 These are some fundamental SQL concepts and functions that will be useful as you start solving SQL problems on platforms like LeetCode and HackerRank. Feel free to explore more SQL topics as you progress in your learning journey.
-```
 
