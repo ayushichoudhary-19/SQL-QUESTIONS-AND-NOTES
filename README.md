@@ -13,7 +13,7 @@ I hope you find these solutions and notes helpful in your own SQL learning journ
 
 # SQL Basics and Prerequisites
 
-Before diving into SQL problem-solving on platforms like LeetCode and HackerRank, it's essential to have a good grasp of the basics. This guide provides a quick overview of some fundamental SQL concepts and common query functions:  [Prerequisites.md](PREREQUISITED.MD)
+Before diving into SQL problem-solving on platforms like LeetCode and HackerRank, it's essential to have a good grasp of the basics. This guide provides a quick overview of some fundamental SQL concepts and common query functions:  [PREREQUISITED.MD](https://github.com/ayushichoudhary-19/SQL-QUESTIONS-AND-NOTES/blob/main/PREREQUISITES.MD))
 
 
 ---
